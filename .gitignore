@@ -1,0 +1,13 @@
+# Dáta sa do repozitára nenahrávajú (ontológia a PDF dokumenty)
+data/
+knowledge_base/
+*.owl
+*.pdf
+*.zip
+
+# Generované súbory
+index/
+__pycache__/
+
+# Tajné kľúče
+.env

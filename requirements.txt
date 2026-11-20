@@ -1,0 +1,6 @@
+rdflib
+pypdf
+numpy
+sentence-transformers
+anthropic
+streamlit
